@@ -313,8 +313,7 @@
   .bs-tf-wrapper {
     display: block;
     cursor: text;
-    width: calc(100% - 10px);
-    margin: 4px 5px 8px;
+    width: 100%;
 
     &--disabled,
     &--readonly {
